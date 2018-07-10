@@ -1,11 +1,16 @@
 
 h1 {
   color: blue;
-  background-color: pink; 
+  background-color: pink;
 }
 
 .hobbies {
   font-style: italic;
   font-family: monospace;
   border: solid;
+  margin: 50;
+}
+
+img {
+  border-radius: 70%
 }
